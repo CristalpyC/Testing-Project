@@ -1,6 +1,4 @@
 # Tarea #4 : Testing-project
-
-Tomar en cuenta lo siguiente:
  1-- ESTRUCTURA:
     → En la carpeta "test", se encuentran los siguientes archivos:
         - testing.py que muestra la prueba.
