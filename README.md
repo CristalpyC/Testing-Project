@@ -13,5 +13,5 @@ Tomar en cuenta lo siguiente:
    → Acceda al siguiente link: https://youtu.be/WyVL7XoYGkg
    
   3-- ACCESO A AZURE:
-  → Acceda al siguiente link: 
+  → Acceda al siguiente link: https://dev.azure.com/CristalPyC/Testing-Project-Prog.III
   
